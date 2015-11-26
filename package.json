@@ -1,0 +1,26 @@
+{
+  "name": "tba_node",
+  "version": "1.0.0",
+  "description": "Access FRC Team's data in JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/camilo86/TBA_Node.git"
+  },
+  "keywords": [
+    "FRC",
+    "FIRST",
+    "The",
+    "Blue",
+    "Alliance"
+  ],
+  "author": "Camilo Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilo86/TBA_Node/issues"
+  },
+  "homepage": "https://github.com/camilo86/TBA_Node#readme"
+}
